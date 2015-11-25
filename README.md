@@ -1,5 +1,7 @@
 #db
 
+[![Join the chat at https://gitter.im/WormBase/db](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/WormBase/db?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 *The database migration project at WormBase.*
 
 **THIS IS A PRIVATE REPOSITORY**
