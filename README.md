@@ -1,8 +1,7 @@
-#db
+#Hinxton Curation
 
-*The database migration project at WormBase.*
+This repo is primarily used for creating a curation toolset used by the Hinxton team. 
 
-**THIS IS A PRIVATE REPOSITORY**
 
 ## FULL-SCALE DATOMIC PROTOTYPE
 
@@ -13,8 +12,6 @@ for more information.
 
    README.md
    data/       -- sample data files, organized by date
-   ec2/        -- scripts and credentials for developing
-                  and benchmarking on the AWS cloud
    platforms/  -- one directory for each system under evaluation
 
 ##DEVELOPMENT PROCEDURE
